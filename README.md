@@ -2,6 +2,8 @@
 
 王毅乐论文的**语言风格 + 制图风格** skill。默认面向英文实证论文（经济学 + 机器学习 + 空间分析），覆盖 Systems、Scientific Reports、Sustainability、Frontiers 四种版面。
 
+**公开仓库**：[KarlHeinrich-jpg/yile-paper-style](https://github.com/KarlHeinrich-jpg/yile-paper-style)
+
 ![四张复刻图总览](assets/previews/_contact_sheet.png)
 
 ## 安装位置
@@ -21,11 +23,11 @@ python scripts/build_examples.py
 
 生成：
 
-- `assets/previews/fig06_china_epi_4panel.png` — 中国 EPI 四级地图（含台湾省级面）
-- `assets/previews/fig11_shap_combo.png` — SHAP 蜂群 + 条形
-- `assets/previews/fig13_shap_dependence.png` — SHAP 依赖图 2×3
-- `assets/previews/fig15_prediction_scatter.png` — 12 模型预测散点
-- `assets/previews/_contact_sheet.png` — 四图总览
+- [fig06_china_epi_4panel.png](assets/previews/fig06_china_epi_4panel.png) — 中国 EPI 四级地图（含台湾省级面）
+- [fig11_shap_combo.png](assets/previews/fig11_shap_combo.png) — SHAP 蜂群 + 条形
+- [fig13_shap_dependence.png](assets/previews/fig13_shap_dependence.png) — SHAP 依赖图 2×3
+- [fig15_prediction_scatter.png](assets/previews/fig15_prediction_scatter.png) — 12 模型预测散点
+- [_contact_sheet.png](assets/previews/_contact_sheet.png) — 四图总览
 
 ## 目录
 
